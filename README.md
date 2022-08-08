@@ -1,13 +1,13 @@
 # Gravity-Simulator Application
-Gravity Simulator Application is a project developed under the course CSE 2188, Software Engineering Sessional. This app is developed by a group of students from the department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET). The main inspiration of the Application was from a Reddit post. This project is from Grooup-01 and the members are S. M. Khalid Bin Zahid (1908001), Najeeb Ahmed Bhuiyan (1908002), Puja Mazumdar (1908003), Hameem Julfiqar (1908004) & Tamzid-Ul-Islam (1908005). 
+Gravity Simulator Application is a project developed under the course CSE 2188, Software Engineering Sessional. This app is developed by a group of students from the department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET). The main inspiration of the Application was from a Reddit post. This project is from Group-01 and the members are S. M. Khalid Bin Zahid (1908001), Najeeb Ahmed Bhuiyan (1908002), Puja Mazumdar (1908003), Hameem Julfiqar (1908004) & Tamzid-Ul-Islam (1908005). 
 
 ## Gravity Simulator
 A gravity simulator application is an application which basically simulates the effect of gravity on falling objects at certain heights, much like our real word. It uses Newton’s laws of gravity in order to make the simulation. Not only the simulator can simulate gravitational force like our earth, but also it can simulate the gravitational force same as that in other celestial bodies also.
 
 ## Features of Gravity Simulator
 The following are key features of the Application are:
-- Keeps track of the position of the falling object at certain intervals of time. 
-- Shows the path of the falling of the object.
+- Keep track of the position of the falling object at certain intervals of time. 
+- Shows the path of the falling object.
 - Users can set the parameters such as, height, initial velocity, acceleration and time interval as per their wish.
 - It can simulate the falling of multiple objects at the same time.
 - This application can also generate the displacement vs time graph of the falling objects after the simulation.
